@@ -1,0 +1,102 @@
+body{background-image: url('pretty wud.jpg');
+
+}
+
+#Header{
+	width: 500px;
+	height: 60px;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: #4B0082;
+	color:#FFBC00;
+	font-family: "Passion One";
+}
+
+
+h3{
+	color: #FFBC00;
+	font-size: 40px;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+
+}
+
+p{
+	color: white;
+	font-family: "arial";
+	font-weight: bold;
+
+}
+
+#LeftNav {
+	float: left;
+	width: 300px;
+	border: white;
+	text-align: center;
+	background-color: #8339CF; 
+}
+
+#LeftNav ul{
+list-style-type: none;
+
+}
+
+#Content{
+width: 700px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 10px;
+border: solid;
+text-align: center;
+background-color: #8339CF;
+pardding: 15px;
+
+
+}
+
+
+#bow {
+color: #FFBC00;
+font-weight: bold;
+font-size: 20px;
+
+
+}
+
+#Footer {
+
+	background-color: #8339CF;
+	text-align: center;
+
+}
+
+#Footer ul{
+
+list-style-type: none;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
